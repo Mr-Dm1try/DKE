@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hl02UbVpFYCPjNgt1LVDQdcaSBo+SLF3hp8EHIcGVL4N9+bq4MWQS/3yNRiWSNDrxxf7TPUttPy41+xLWhfGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrdmi\\source\\repos\\DKE\\CsvHelper\\CsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrdmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

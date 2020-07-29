@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DataModel
+namespace DataModel.Input
 {
     public class InputSchema
     {
-        List<InputEntry> BuyEntries { get; set; }
-        List<InputEntry> SellEntries { get; set; }
+        public List<InputEntry> BuyEntries { get; set; }
+        public List<InputEntry> SellEntries { get; set; }
     }
 }

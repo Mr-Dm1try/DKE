@@ -6,6 +6,6 @@
         public bool IsBuy { get; set; }
         public bool IsMarket { get; set; }
         public long Volume { get; set; }
-        public long? Value { get; set; }
+        public long Value { get; set; }
     }
 }
